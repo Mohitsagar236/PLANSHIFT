@@ -1,0 +1,4 @@
+customer_id,company_name,segment,region,current_plan,mrr,arr,renewal_date,contract_type,customer_success_owner,health_score,support_ticket_count_last_90_days
+CUST-0001,Northstar Labs,SMB,India,Pro,399,4788,2026-09-15,Annual,Anika Rao,82,3
+CUST-0002,Banyan Systems,Mid-Market,US,Pro,1197,14364,2026-08-28,Annual,Maya Chen,46,9
+CUST-0003,Vector Cloud,Enterprise,Europe,Enterprise,12990,155880,2026-09-08,Annual enterprise agreement,Luis Garcia,44,12

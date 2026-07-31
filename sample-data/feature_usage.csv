@@ -1,0 +1,5 @@
+customer_id,feature_key,feature_name,usage_count_last_30_days,usage_count_last_90_days,is_business_critical
+CUST-0001,sso,SSO,84,288,true
+CUST-0001,advanced_audit_logs,Advanced Audit Logs,55,198,true
+CUST-0002,sso,SSO,121,402,true
+CUST-0003,scim,SCIM Provisioning,44,144,true

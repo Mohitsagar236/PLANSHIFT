@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,annual_price,included_features,usage_limits,support_level
+current-free,Free,0,0,"analytics;mobile_access","seats=3;events=1000",Community
+current-starter,Starter,99,1188,"analytics;public_api;webhooks","seats=10;events=25000",Email
+current-pro,Pro,399,4788,"analytics;sso;advanced_audit_logs;custom_roles;public_api","seats=75;events=300000",Priority
+current-enterprise,Enterprise,1299,15588,"all_features","seats=unlimited;events=custom",Dedicated CSM

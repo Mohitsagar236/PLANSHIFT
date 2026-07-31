@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,annual_price,included_features,usage_limits,support_level
+proposed-free,Free,0,0,"analytics;mobile_access","seats=3;events=1000",Community
+proposed-growth,Growth,149,1788,"analytics;public_api;webhooks;segments","seats=20;events=60000",Email
+proposed-business,Business,549,6588,"analytics;custom_roles;public_api;webhooks;scheduled_exports","seats=100;events=500000",Priority
+proposed-enterprise,Enterprise,1499,17988,"all_features","seats=unlimited;events=custom",Dedicated CSM
